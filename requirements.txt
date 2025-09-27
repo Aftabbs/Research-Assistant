@@ -1,0 +1,23 @@
+mcp
+fastmcp
+langchain
+langchain-openai
+langchain-mcp-adapters
+langchain-community
+
+# Web framework and UI
+streamlit
+fastapi
+uvicorn
+
+# Web scraping and search
+httpx
+beautifulsoup4
+feedparser
+
+# Database and data processing
+# sqlite3  # Built into Python
+pandas
+
+# Environment and utilities
+python-dotenv
