@@ -2,7 +2,7 @@ import os
 import sys
 import json
 import logging
-import asyncio
+import asyncio 
 import hashlib
 import re
 from typing import Optional, List, Dict, Any, Union
@@ -567,4 +567,5 @@ if __name__ == "__main__":
         
     except Exception as e:
         logger.error(f"Failed to start server: {e}")
+
         sys.exit(1)
