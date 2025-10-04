@@ -7,7 +7,7 @@ A comprehensive AI-powered research system built with MCP (Model Context Protoco
 ## Features
 
 - **Intelligent Web Search**: Google Custom Search API integration with result filtering
-- **Content Extraction**: Automated web page content extraction and cleaning 
+- **Content Extraction**: Automated web page content extraction and cleaning  
 - **Project Management**: Organize research into structured projects with SQLite persistence
 - **Citation Generation**: Automatic APA-style citation formatting
 - **Chat Interface**: LangChain-powered conversational research assistant
@@ -363,6 +363,7 @@ This system demonstrates:
 
 
 The codebase serves as a comprehensive example of building production-ready AI applications with proper architecture, error handling, and user experience considerations.
+
 
 
 
