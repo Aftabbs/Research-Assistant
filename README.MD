@@ -1,7 +1,7 @@
 # Research Assistant
  
 ![alt text](image.png)
-
+ 
 A comprehensive AI-powered research system built with MCP (Model Context Protocol) that provides intelligent web search, content extraction, project organization, and citation management capabilities. 
 
 ## Features
@@ -363,4 +363,5 @@ This system demonstrates:
 
 
 The codebase serves as a comprehensive example of building production-ready AI applications with proper architecture, error handling, and user experience considerations.
+
 
